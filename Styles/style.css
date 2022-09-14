@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8" ;
 
 *{
     padding: 0px;
@@ -56,7 +56,7 @@ iframe#iphone{
     background-image: url(../Images/tela-home.jpg);
     background-position: center center;
     background-size: cover;
-    
+
     
 }
 
